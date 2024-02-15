@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 666.67 779.85">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Sublima-ExtraBold, Sublima;
+        font-size: 97.01px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect x="289.43" width="88.5" height="292.43"/>
+      <path d="M249.98,157.59V86.68c-102.75,34.98-176.89,132.31-176.89,246.72,0,143.69,116.92,260.59,260.59,260.59s260.59-116.9,260.59-260.59c0-114.42-74.15-211.74-176.89-246.72v70.94c65.62,31.37,111.04,98.37,111.04,175.79,0,107.4-87.35,194.75-194.75,194.75s-194.75-87.35-194.75-194.75c0-77.42,45.42-144.42,111.05-175.82Z"/>
+    </g>
+    <text class="cls-1" transform="translate(0 745.51)"><tspan x="0" y="0">DANTA HOME</tspan></text>
+  </g>
+</svg>
